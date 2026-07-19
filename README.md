@@ -40,4 +40,4 @@ Estudiante de Sexto Perito en Informática en el Centro Educativo Técnico Labor
 
 ---
 
-<p><i>Portafolio completo: próximamente en línea.</i></p>v
+<p><i>Portafolio completo: próximamente en línea.</i></p>
