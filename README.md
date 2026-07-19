@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! Soy Kevin Velásquez 👋
 
-<!--
-**Compkev22/Compkev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Stack** · Guatemala 🇬🇹
 
-Here are some ideas to get you started:
+> Convierto problemas reales en sistemas que funcionan, de principio a fin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de Sexto Perito en Informática en el Centro Educativo Técnico Laboral Kinal, enfocado en construir aplicaciones completas: desde la base de datos hasta la interfaz que usa la gente.
+
+---
+
+### 🛠️ Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,spring,java,postgres,mysql,mongodb,git,github" alt="Tecnologías: JavaScript, React, Tailwind CSS, Node.js, Express, Spring Boot, Java, PostgreSQL, MySQL, MongoDB, Git, GitHub" />
+</p>
+
+### 🚀 Proyectos destacados
+
+**Kinal Fried Chicken** — Gestión de restaurantes (administración + clientes), con menú, usuarios y autenticación.
+`React` `React Native` `Node.js` `Express` `PostgreSQL` `MongoDB`
+🔗 [Repositorio](https://github.com/Compkev22/Client-User-Restaurante.git) · [Demo](https://kinal-fried-chicken-user.web.app/login)
+
+**Kinal Bank** — Sistema bancario para administrar cuentas, tarjetas y clientes.
+`React` `React Native` `Node.js` `Express` `PostgreSQL` `MongoDB`
+🔗 [Repositorio](https://github.com/orgs/KinalBank/repositories) · [Demo](https://client-user-bank-system.vercel.app/)
+
+### 📫 Contacto
+
+<p>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevinvelasquez2207@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Compkev22">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+</p>
+
+*LinkedIn — próximamente.*
+
+---
+
+<p><i>Portafolio completo: próximamente en línea.</i></p>v
