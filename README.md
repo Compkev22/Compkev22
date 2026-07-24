@@ -34,9 +34,11 @@ Estudiante de Sexto Perito en Informática en el Centro Educativo Técnico Labor
   <a href="https://github.com/Compkev22">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kevin-velasquez-dev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
 </p>
-
-*LinkedIn — próximamente.*
 
 ---
 
