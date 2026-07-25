@@ -42,4 +42,4 @@ Estudiante de Sexto Perito en Informática en el Centro Educativo Técnico Labor
 
 ---
 
-<p><i>Portafolio completo: próximamente en línea.</i></p>
+<p><i>🌐 Portafolio: <a href="https://portafoliodesarrollador.vercel.app/">portafoliodesarrollador.vercel.app</a></i></p>
